@@ -20,7 +20,7 @@ function greet(name) {
   You should be able to call this function with no arguments and see its output in the terminal:
   greetWithDefault();
   => "Hello, programmer!"
-  
+
   You should also be able to call this function with one argument and see its output in the terminal:
   greetWithDefault("Sunny");
   => "Hello, Sunny!"
@@ -54,3 +54,18 @@ function halve(number) {
 
   return number / 2;
 }
+
+// function myFunction(param) {
+//   console.log("Running myFunction");
+//   return param + 1;
+// }
+
+// def myFunction param
+// puts "Running myFunction"
+// param + 1
+// end
+
+// const myFunctionReturnValue = myFunction(1);
+// // => "Running myFunction"
+// console.log(myFunctionReturnValue);
+// // => 2
